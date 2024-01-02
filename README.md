@@ -2,21 +2,29 @@
 
 <h2>Proje Hakkında</h2>
 <p>
-  Proje React JS ile oluşturulmuştur. Fakeapistore üzerinden gelen apiler ile ürünler listelenmiştir.
-  <h2>Kullanılanlar</h2>
-  React Router
-  React Redux
-  React Slick
-  React Paginate
-  React Icons
-</p>
+  Genel olarak projede kullandığımız teknolojiler şu şekildedir.
+  <ul>
+    <li>AspNet Core 8.0</li>
+    <li>Asp.Net Core Api</li>
+    <li>SignalR</li>
+    <li>Swagger</li>
+    <li>Dto</li>
+    <li>N Tier Architecture</li>
+    <li>MSSQL</li>
+    <li>İlişkili Tablolar</li>
+    <li>Html Css Bootstrap</li>
+    <li>JavaScript</li>
+    <li>Ajax</li>
+    <li>Entity Framework - Linq</li>
+    <li>Alert</li>
+    <li>Basket</li>
+    <li>Rezervasyon İşlemleri</li>
+    <li>Real-Time Uygulamalar</li>
+    <li>Real-Time Mesajlaşma</li>
+    <li>Real-Time İstatistik</li>
+    <li>Real-Time Bildirim</li>
+    <li>Mail Gönderme İşlemleri</li>
+  </ul>
+<h2>Aşağıda, proje geliştirme aşamaları sıralı bir şekilde sunulmaktadır:</h2>
+<p>1-</p>
 <h2>Proje Görselleri</h2>
-<img src="https://github.com/celalcolak94/React-Eticaret/assets/132816581/4fcbf013-9a3f-419b-8ea1-b8e31129ecaa">
-<img src="https://github.com/celalcolak94/React-Eticaret/assets/132816581/06ed559e-11c1-45f2-ba74-916a1a717990">
-<img src="https://github.com/celalcolak94/React-Eticaret/assets/132816581/6ca452a9-d577-444b-973b-ff5f62de88d1">
-<img src="https://github.com/celalcolak94/React-Eticaret/assets/132816581/d1d5b116-58b0-4464-8f31-58cfba1c8fdd">
-<img src="https://github.com/celalcolak94/React-Eticaret/assets/132816581/7aa81078-48ee-4e7d-91f4-20661d32f38a">
-<img src="https://github.com/celalcolak94/React-Eticaret/assets/132816581/3525f4b8-2d89-4468-b897-b3cc444e2e75">
-<img src="https://github.com/celalcolak94/React-Eticaret/assets/132816581/589d8e04-d919-4f29-81dc-b5c6f250cbb0">
-<img src="https://github.com/celalcolak94/React-Eticaret/assets/132816581/449c93ed-d63c-49d4-be5a-aba866213b74">
-<img src="https://github.com/celalcolak94/React-Eticaret/assets/132816581/17c691c7-badc-486f-8026-4b322fb80132">
